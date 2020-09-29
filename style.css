@@ -1,0 +1,56 @@
+*{
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+}
+
+h1, .nav-bar-container{
+  background-color: #ac5e6b ;
+  padding-bottom: 0.37em;
+  /* background-image: url(""); */
+  }
+
+.nav-list{
+  display: block;
+  margin-left: 1.2em;
+  padding-bottom: 0.8em;
+  letter-spacing: 0.25em;
+  margin-right: 1em;
+  padding-top: 0.5em;
+}
+
+.nav-list:active{
+  display: block;
+  margin-left: 1.2em;
+  padding-bottom: 0.8em;
+  letter-spacing: 0.25em;
+  background-color: pink;
+  border-radius: 10px;
+
+}
+
+.nav-bar{
+  text-align: center;
+  color: snow;
+  font-family: 'Dancing Script', cursive;
+  font-size: 1.6em;
+  font-weight: 800;
+  padding-top: 0.6em;
+}
+
+.title-banner{
+  font-family: "KonTikiEnchantedJF";
+  color: #D4AF37;
+  text-align: center;
+   margin-top: 0.7em;
+  /* border-bottom: red dashed 3px; */
+  margin: 0;
+  padding-top: 0.4em;
+}
+
+.hamburger-menu{
+  margin-left: 0.5em;
+  position: absolute;
+  top: 1em;
+}
+ 
